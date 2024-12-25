@@ -39,3 +39,5 @@ Understand Real-world Health Management Systems:
 This project helped me gain a deeper understanding of how real-world health tracking systems work, such as setting personal health goals, logging data, and reviewing progress—skills that are highly applicable in health tech development.
 Through this project, I learned how to build a health tracking application that integrates data entry, progress monitoring, goal setting, and file export functionality. It helped me strengthen my skills in GUI development, file handling, event-driven programming, and data management.
 
+![image](https://github.com/user-attachments/assets/c243834d-5e21-4129-a3c3-95ed7ad25226)
+
